@@ -15,11 +15,13 @@ The following operations can be performed on Data Structures.
 alphabetically).
 6. Merging : It means combining the two data structure into a data structure.
 1.1.7 Different Approaches to designing an algorithm
-Algorithm means sequence of instructions given to computer to solve a problem. While
-designing an algorithm, the complex problem or system may be divided into smaller modules.
-Modularity improves design clarity, easy to implement, debug, testing, documenting and
-maintenance of the complex system.
-There are two design approaches in design of algorithm. They are
+git init
+git remote add origin
+git add .
+git add filename
+git commit -m "message"
+git push origin master
+
 1. Top Down approach
 2. Bottom up approach
 1.1.7.1 Top DownAppraoch
