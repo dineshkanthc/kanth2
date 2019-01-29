@@ -1,0 +1,38 @@
+b. Non-Linear Data structure
+In non-linear data structure the data are not stored in sequential order. The various nonlinear
+data structures are
+ Graph - It is used to store data based on the relationship among pair of data.
+ Tree - It is used to store data based on the hierarchical relationship among data.
+ Table -It is used to store data in row and column order.
+ Sets -It is used to store combined data.
+1.1.6 Operations on Data Structures(Detailed explanation given in next chapter)
+The following operations can be performed on Data Structures.
+1. Traversing : It means accessing or visiting each element exactly once.
+2. Inserting : It means adding a new element to the data structure.
+3. Deleting : It means removing an element from the data structure.
+4. Searching : It means finding the location of element with a given Key value.
+5. Sorting : It means arranging the data in some logical order ( ascending or descending or
+alphabetically).
+6. Merging : It means combining the two data structure into a data structure.
+1.1.7 Different Approaches to designing an algorithm
+Algorithm means sequence of instructions given to computer to solve a problem. While
+designing an algorithm, the complex problem or system may be divided into smaller modules.
+Modularity improves design clarity, easy to implement, debug, testing, documenting and
+maintenance of the complex system.
+There are two design approaches in design of algorithm. They are
+1. Top Down approach
+2. Bottom up approach
+1.1.7.1 Top DownAppraoch
+A top down design approach starts by
+i. identifying the major components of the system.
+ii. decompose them into lower level components
+iii. iterating until the desired level of module complexity is achieved
+In each step, design is refined into most concrete level until we reach there is no more
+refinement.
+Example : To create a program to build a simple calculator.
+In this approach we look at the overall requirement of calculator and start coding. We
+build the main function first, then add calls to various functions like add, subtract etc... and then
+display the output. So what we did here was, approached the problem by first looking at the
+overall objective which is the top, then deciding when and where to call the functions and
+eventually going down to the lowest level detail of designing the functions themselves. Hence it
+is called the "top-down" approach.
